@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="AgarProject">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/AgarProject/src-final2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/AgarProject/src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/AgarProject/src-final.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
